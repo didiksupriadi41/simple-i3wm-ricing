@@ -1,0 +1,1 @@
+# simple-i3wm-theming
