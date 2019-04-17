@@ -1,4 +1,4 @@
-# simple-i3wm-theming
+# simple-i3wm-ricing
 These are my configuration on i3. Even though it is created with some simple adjustments and coloring, it is still a theme that you can't miss.
 
 ### Theme features
