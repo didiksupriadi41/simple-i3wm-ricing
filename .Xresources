@@ -5,10 +5,11 @@
 ! URxvt*transparent: true
 !
 /* URxvt*shading: 0 to 99 darkens, 101 to 200 lightens */
-! URxvt*shading: 150
+! URxvt*shading: 80
+! URxvt*tintColor: DarkGreen
 
 
 /* urxvt text color */
-URxvt*foreground: rgba:ffff/ffff/ffff/ffff 
+URxvt*foreground: White
 /* urxvt background color */
-URxvt*background: rgba:0000/0000/0000/0000
+URxvt*background: Black
