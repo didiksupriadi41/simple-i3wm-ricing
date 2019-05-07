@@ -1,4 +1,6 @@
-# simple-i3wm-ricing
+# simple-i3wm-ricing [DEPRECATED]
+> _More configured and modernized here_ ![didiksupriadi41/dotfiles](https://github.com/didiksupriadi41/dotfiles)
+
 These are my configuration on i3. Even though it is created with some simple adjustments and coloring, it is still a theme that you can't miss.
 
 ### Theme features
